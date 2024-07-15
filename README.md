@@ -1,1 +1,2 @@
 # Road-Crack-Detection
+Street cracks are unsightly and present a safety hazard for motorists and pedestrians. Detecting these cracks early on enables authorities to conduct repairs before they worsen, it is now possible to carry out surface crack detection with greater precision and speed, using various techniques such as machine learning algorithms. In this way, roads can be made safer while maintenance costs are reduced by accurately detecting surface cracks.
